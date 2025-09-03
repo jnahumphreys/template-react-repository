@@ -2,11 +2,9 @@
 
 Welcome! This document outlines how to contribute to this project efficiently and consistently using the tools and workflows we’ve adopted. It is also referenced by our AI development agents to reduce duplication and enforce shared standards.
 
-
 ## 📦 Project Overview
 
 To document
-
 
 ## 📁 Project Structure
 
@@ -60,7 +58,6 @@ Examples:
 - Use the same type keywords as [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): `feat`, `fix`, `chore`, etc.
 - Always create a **GitHub Issue first** and reference it in your branch and PR.
 
-
 ## ✏️ Commit Conventions
 
 We follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard.
@@ -81,7 +78,6 @@ Examples:
 - `chore: update Prettier config`
 
 > 💡 Pre-commit hooks will lint commit messages and reject non-conforming ones.
-
 
 ## 🧾 Changelog Policy
 
@@ -119,7 +115,6 @@ All PRs must include relevant tests:
 - ✅ Owned and managed by QA
 
 **Note:** If your PR addresses a bug, include a test spec that reproduces the issue and verifies the fix to help prevent future regressions.
-
 
 ## ✅ Pull Requests
 
@@ -176,7 +171,6 @@ We use **GitHub Issues** and **GitHub Projects** to manage all work.
     - What was expected vs actual
     - Steps to reproduce
     - Environment info
-
 
 ## 🧱 Architectural Decisions
 
@@ -294,7 +288,6 @@ To document
 ## 🔧 Backend Best Practices
 
 To document
-
 
 ## 🧪 QA Strategy
 
