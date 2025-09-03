@@ -1,0 +1,27 @@
+{
+  "name": "template-react-repository",
+  "engines": {
+    "node": ">=22.0.0 <23.0.0",
+    "npm": ">=10.0.0"
+  },
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Humphreys",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "workspaces": [
+    "apps/*"
+  ],
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnahumphreys"
+  },
+  "bugs": {
+    "url": "https://github.com/jnahumphreys"
+  },
+  "homepage": "https://github.com/jnahumphreys"
+}
